@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Handlee&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Handlee', cursive;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+nav {
+    background-color: rgb(210, 250, 255);
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+
+.logo-and-name {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+li {
+    list-style-type: none;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+li a {
+    font-family: 'Dancing Script', cursive;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.sticky {
+    padding: 5px 10px;
+    background-color: rgb(0, 132, 150);
+    color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+}
+
+.sticky div {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+.cart {
+    height: 27px;
+    width: auto;
+    cursor: grab;
+}
+
+.home {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+h2,
+h3 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.25rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.brands {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.gamma {
+    height: 60px;
+    width: auto;
+}
+
+.palitra {
+    height: 40px;
+    width: auto;
+}
+
+.koh-i-noor {
+    height: 70px;
+    width: auto;
+}
+
+.shop {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+}
+
+.shop-container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product {
+    border: solid rgb(175, 175, 175) 1px;
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+}
+
+.product:hover {
+    box-shadow: 5px 5px 5px rgb(175, 175, 175);
+}
+
+.product-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid rgb(175, 175, 175) 1px;
+}
+
+.second-image {
+    display: none;
+}
+
+.product-image:hover .first-image {
+    display: none;
+}
+
+.product-image:hover .second-image {
+    display: block;
+}
+
+.product-image img {
+    width: 240px;
+    height: auto;
+}
+
+.product-description {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.product-name {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.product-price {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+}
+
+form button {
+    background-color: white;
+    border: rgb(175, 175, 175) solid 1px;
+    border-radius: 0;
+}
+
+input {
+    width: 40px;
+    padding: 0 4px;
+    border-top: rgb(175, 175, 175) solid 1px;
+    border-bottom: rgb(175, 175, 175) solid 1px;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    font-size: 1rem;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+a {
+    color: rgb(0, 132, 150);
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: rgb(0, 132, 150) 1px 0 7px;
+}
+
+button {
+    background-color: rgb(226, 252, 255);
+    padding: 2px 8px;
+    border: 1px solid rgb(0, 132, 150);
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: rgb(210, 250, 255);
+    cursor: grab;
+}
+
+.quantity button:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.quantity button:active {
+    background-color: rgb(223, 223, 223);
+}
+
+footer {
+    background-color: rgb(0, 132, 150);
+    color: white;
+    padding: 5px 10px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    font-style: italic;
+}
+
+footer div {
+    font-size: 1.1rem;
+}
+
+footer a {
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+footer a:hover {
+    text-shadow: white 1px 0 5px;
+}
+
+@media (max-width: 520px) {
+    .logo-and-name {
+        gap: 10px;
+    }
+
+    h1 {
+        font-size: 1.9rem;
+    }
+
+    ul {
+        gap: 15px;
+    }
+
+    li {
+        font-size: 1.4rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    h3 {
+        font-size: 1.35rem;
+    }
+
+    .home {
+        gap: 20px;
+    }
+}
