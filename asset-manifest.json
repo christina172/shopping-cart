@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.9c61d7d5.css",
+    "main.js": "/shopping-cart/static/js/main.da3324fd.js",
+    "static/media/gamma-aquarelle-18-1.jpg": "/shopping-cart/static/media/gamma-aquarelle-18-1.38757e8959ca8072ee02.jpg",
+    "static/media/nevskaya-palitra-aquarelle-1.png": "/shopping-cart/static/media/nevskaya-palitra-aquarelle-1.2d1746462df72134f3e6.png",
+    "static/media/nevskaya-palitra-tempera-1.png": "/shopping-cart/static/media/nevskaya-palitra-tempera-1.15f71886a3808e51e412.png",
+    "static/media/nevskaya-palitra-oils-1.png": "/shopping-cart/static/media/nevskaya-palitra-oils-1.90405feed814a07a4674.png",
+    "static/media/gamma-aquarelle-12-1.jpg": "/shopping-cart/static/media/gamma-aquarelle-12-1.1c2aad858fdbe8e387d0.jpg",
+    "static/media/gamma-aquarelle-18-2.jpg": "/shopping-cart/static/media/gamma-aquarelle-18-2.653bd39de3c5a8cebca8.jpg",
+    "static/media/gamma-aquarelle-12-2.jpg": "/shopping-cart/static/media/gamma-aquarelle-12-2.a936dbacb30033bd70ce.jpg",
+    "static/media/koh-i-noor-aquarelle-pencils-24-2.jpeg": "/shopping-cart/static/media/koh-i-noor-aquarelle-pencils-24-2.41756efdda30b0ba4c45.jpeg",
+    "static/media/nevskaya-palitra-oils-2.jpg": "/shopping-cart/static/media/nevskaya-palitra-oils-2.2b1b1ef8cde7b03d1d5f.jpg",
+    "static/media/koh-i-noor-aquarelle-pencils-36-2.jpeg": "/shopping-cart/static/media/koh-i-noor-aquarelle-pencils-36-2.0a18815ef7282ac5eca3.jpeg",
+    "static/media/koh-i-noor-aquarelle-pencils-36-1.jpeg": "/shopping-cart/static/media/koh-i-noor-aquarelle-pencils-36-1.42342d52c0f828121172.jpeg",
+    "static/media/koh-i-noor-oils-1.jpeg": "/shopping-cart/static/media/koh-i-noor-oils-1.2f64c64df6e230ee7ec2.jpeg",
+    "static/media/koh-i-noor-pencils-1500-2.jpeg": "/shopping-cart/static/media/koh-i-noor-pencils-1500-2.b2f797f04da23c3d87e3.jpeg",
+    "static/media/koh-i-noor-pencils-1500-1.jpeg": "/shopping-cart/static/media/koh-i-noor-pencils-1500-1.68c8cd6260d393a9330a.jpeg",
+    "static/media/koh-i-noor-acrylics-2.jpeg": "/shopping-cart/static/media/koh-i-noor-acrylics-2.faef7bc6706a1df38cdd.jpeg",
+    "static/media/koh-i-noor-oils-2.jpeg": "/shopping-cart/static/media/koh-i-noor-oils-2.89032b6a09331143a782.jpeg",
+    "static/media/koh-i-noor-acrylics-1.jpeg": "/shopping-cart/static/media/koh-i-noor-acrylics-1.645341a9987ef345d04f.jpeg",
+    "static/media/koh-i-noor-aquarelle-pencils-24-1.jpeg": "/shopping-cart/static/media/koh-i-noor-aquarelle-pencils-24-1.15d00a2f515bdeaf329f.jpeg",
+    "static/media/koh-i-noor-pencils-1900-2.jpeg": "/shopping-cart/static/media/koh-i-noor-pencils-1900-2.3ba5379210689aeb0bdf.jpeg",
+    "static/media/koh-i-noor-pencils-1900-1.jpeg": "/shopping-cart/static/media/koh-i-noor-pencils-1900-1.0695c0303f539aa15142.jpeg",
+    "static/media/nevskaya-palitra-aquarelle-2.jpeg": "/shopping-cart/static/media/nevskaya-palitra-aquarelle-2.2b36ca9c27867b5c807a.jpeg",
+    "static/media/nevskaya-palitra-aquarelle-pencils-2.jpeg": "/shopping-cart/static/media/nevskaya-palitra-aquarelle-pencils-2.ab2ecbd823251ebe6884.jpeg",
+    "static/media/nevskaya-palitra-tempera-2.jpg": "/shopping-cart/static/media/nevskaya-palitra-tempera-2.8a73d0d44570c47477c9.jpg",
+    "static/media/nevskaya-palitra.jpg": "/shopping-cart/static/media/nevskaya-palitra.e430c0dcac1c5a9e878b.jpg",
+    "static/media/nevskaya-palitra-aquarelle-pencils-1.jpeg": "/shopping-cart/static/media/nevskaya-palitra-aquarelle-pencils-1.bc477510113ac9bbde29.jpeg",
+    "static/media/koh-i-noor.jpg": "/shopping-cart/static/media/koh-i-noor.eded5263469c1fbd17b9.jpg",
+    "static/media/cart-trolley-svgrepo-com-color.svg": "/shopping-cart/static/media/cart-trolley-svgrepo-com-color.7df85541b6255870889bc4a2068c1a96.svg",
+    "static/media/cart-trolley-svgrepo-com-white.svg": "/shopping-cart/static/media/cart-trolley-svgrepo-com-white.166f3a8363429479b5670d1320c8b9b4.svg",
+    "static/media/artist-palette-svgrepo-com.svg": "/shopping-cart/static/media/artist-palette-svgrepo-com.d2d382c0b1a48c68ebddf4fbc84d6a86.svg",
+    "index.html": "/shopping-cart/index.html",
+    "main.9c61d7d5.css.map": "/shopping-cart/static/css/main.9c61d7d5.css.map",
+    "main.da3324fd.js.map": "/shopping-cart/static/js/main.da3324fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c61d7d5.css",
+    "static/js/main.da3324fd.js"
+  ]
+}
