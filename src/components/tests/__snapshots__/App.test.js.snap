@@ -10,7 +10,7 @@ exports[`App component renders App component 1`] = `
         class="logo-and-name"
       >
         <a
-          href="/"
+          href="#/"
         >
           <img
             alt="logo"
@@ -19,7 +19,7 @@ exports[`App component renders App component 1`] = `
           />
         </a>
         <a
-          href="/"
+          href="#/"
         >
           <h1>
             Artistic Touch
@@ -29,14 +29,14 @@ exports[`App component renders App component 1`] = `
       <ul>
         <li>
           <a
-            href="/"
+            href="#/"
           >
             Home
           </a>
         </li>
         <li>
           <a
-            href="/shop"
+            href="#/shop"
           >
             Shop
           </a>
