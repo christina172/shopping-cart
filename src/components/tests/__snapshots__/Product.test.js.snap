@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product component renders Product component 1`] = `
+<div>
+  <div
+    class="product"
+  >
+    <div
+      class="product-image"
+    >
+      <img
+        alt="Watercolour set \\"Studio\\", 18 colours, cuvettes (2.6 ml), cardboard box, GAMMA"
+        class="first-image"
+        src="gamma-aquarelle-18-1.jpg"
+      />
+      <img
+        alt="Watercolour set \\"Studio\\", 18 colours, cuvettes (2.6 ml), cardboard box, GAMMA"
+        class="second-image"
+        src="gamma-aquarelle-18-2.jpg"
+      />
+    </div>
+    <div
+      class="product-description"
+    >
+      <div
+        class="product-name"
+      >
+        Watercolour set "Studio", 18 colours, cuvettes (2.6 ml), cardboard box, GAMMA
+      </div>
+      <div
+        class="product-price"
+      >
+        4.9
+         $
+      </div>
+      <img
+        alt="cart"
+        class="cart"
+        src="cart-trolley-svgrepo-com-color.svg"
+      />
+    </div>
+  </div>
+</div>
+`;

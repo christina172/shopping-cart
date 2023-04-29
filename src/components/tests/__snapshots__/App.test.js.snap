@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App component 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <nav>
+      <div
+        class="logo-and-name"
+      >
+        <a
+          href="/"
+        >
+          <img
+            alt="logo"
+            class="logo"
+            src="artist-palette-svgrepo-com.svg"
+          />
+        </a>
+        <a
+          href="/"
+        >
+          <h1>
+            Artistic Touch
+          </h1>
+        </a>
+      </div>
+      <ul>
+        <li>
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/shop"
+          >
+            Shop
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <main>
+      <div
+        class="home"
+      >
+        <h2>
+          Welcome to ARTISTIC TOUCH!
+        </h2>
+        <h3>
+          ABOUT US
+        </h3>
+        <p>
+          Our online store was founded in 2012. Since then we have been striving to provide the best customer experience by partnering with the best brands in the field, expanding the range of products and improving customer service. We specialize in artistic paints and drawing supplies. We offer a wide range of products for beginner artists and professionals alike.
+        </p>
+        <h3>
+          BRANDS
+        </h3>
+        <div
+          class="brands"
+        >
+          <img
+            alt="gamma logo"
+            class="gamma"
+            src="gamma.jpg"
+          />
+          <img
+            alt="nevskaya palitra logo"
+            class="palitra"
+            src="nevskaya-palitra.jpg"
+          />
+          <img
+            alt="koh-i-noor logo"
+            class="koh-i-noor"
+            src="koh-i-noor.jpg"
+          />
+        </div>
+        <h3>
+          CONTACT
+        </h3>
+        <div>
+          <p>
+            Telephone: +208 (45) 123-45-67
+          </p>
+          <p>
+            Email: art_touch@mail.com
+          </p>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div>
+        Images and photos from 
+        <a
+          href="https://artgamma.ru/"
+        >
+          Gamma
+        </a>
+        , 
+        <a
+          href="https://www.nevskayapalitra.ru/"
+        >
+          Nevskaya Palitra
+        </a>
+        , 
+        <a
+          href="https://eshop.koh-i-noor.eu/"
+        >
+          Koh-I-Noor
+        </a>
+      </div>
+      <div>
+        Icons from 
+        <a
+          href="https://www.svgrepo.com/"
+        >
+          SVG repo
+        </a>
+      </div>
+    </footer>
+  </div>
+</div>
+`;
